@@ -176,7 +176,7 @@ modport slave_tb_mp
 
 
 
-//3- MONITOR MODPORT
+//3- MONITOR MODPORTT
 modport monitor_mp
 (
   //clock and reset
